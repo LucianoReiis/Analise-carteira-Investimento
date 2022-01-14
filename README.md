@@ -1,2 +1,2 @@
 # Analise carteira Investimento
- Programa paraanalise da minha carteira de investimento.
+ Programa para análise da minha carteira de investimento.
